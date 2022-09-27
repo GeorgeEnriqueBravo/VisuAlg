@@ -16,10 +16,10 @@ Os programas são todos em extensão `.alg` e para serem abertos é necessário 
 Vode pode usar o proprio VisuAlg para isso, baixando ele diretamente do meu repositório se preferir. </br>
     <a href="https://github.com/GeorgeEnriqueBravo/VisuAlg/raw/main/visualg3.0.7.rar" target="_blank">
         Download VisuAlg
-    </a> </br></br>
+    </a> </br>
     
 Não é necessário instalação, apenas descompacte o arquivo no local desejado e execute o arquivo `visualg30.exe`. </br>
-Com ele aberto você pode clicar na barra de menus acima em "Arquivo/Abrir" e escolher um dos meus projetos para poder visualizá-lo em execução. </br></br>
+Com ele aberto você pode clicar na barra de menus acima em "Arquivo/Abrir" e escolher um dos meus projetos para poder visualizá-lo em execução. </br>
 
 Uma vez abertos, os programas possuem um cabeçalho detalhado quanto a sua função e como o usuário deve proceder para utilizar.
 Apertando a tecla F9 do teclado o programa iniciará sua execução. Para encerrar o programa, basta clicar com a tecla ESC do teclado.
