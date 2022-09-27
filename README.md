@@ -13,7 +13,7 @@ desse repositório e selecionar o arquivo desejado.
 ## Execução
 
 Os programas são todos em extensão `.alg` e para serem abertos é necessário um programa que leia essa extensão. </br>
-Vode pode usar o proprio VisuAlg para isso, baixando ele diretamente do meu repositório clicando aqui:
+Vode pode usar o proprio VisuAlg para isso, baixando ele diretamente do meu repositório se preferir. </br>
     <a href="https://github.com/GeorgeEnriqueBravo/VisuAlg/raw/main/visualg3.0.7.rar" target="_blank">
         Download VisuAlg
     </a> </br></br>
