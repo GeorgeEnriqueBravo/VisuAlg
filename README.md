@@ -1,4 +1,4 @@
-# Bem vindo aos meus projetos VisuAlg! <img width="5%" alt="💻" src="imagens/visualg.png"/>
+# Bem vindo aos meus projetos VisuAlg! <img width="50px" alt="💻" src="imagens/visualg.png"/>
 
 ### Todos os programas criados aqui foram alguns dos exercícios desenvolvidos durante o meu curso de Algoritmos através da ferramenta VisuAlg.
 
