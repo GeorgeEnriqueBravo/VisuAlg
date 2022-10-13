@@ -27,7 +27,7 @@ Inicio
    cont <- cont + 1
    Ate (cont > num)
 
-   Se (divisor <= 2) entao
+   Se (divisor = 2) entao
        Escreval ("O número",num," é primo")
    senao
        Escreval ("O número", num, " não é primo")
